@@ -96,7 +96,7 @@ Tashme mund te logohemi me: ssh **uranus**@192.168.10.6
 
 Hapi i radhes eshte te eskalojme privilegjet per te kapur root. Ne kerkim e siper gjeta dicka interesante ne _.bash_history_
 
-`ls -la` na jep nje liste me filet e fshehura ne home direcotry e uranus.
+`ls -la` na jep nje liste me filet e fshehura ne /home/uranus
 
 `cat .bash_history` duke investiguar komandat e superuserit gjeta nje tjeter hint te koduar me base64
 
@@ -120,9 +120,12 @@ Komanda per brute forcing:
 
 ![Screenshot_2023-11-16_18_28_00](https://github.com/zagnox/vm-sda-project/assets/144890045/49420135-dcf7-4be8-b603-b561e8313e44)
 
-## GAME OVER
+## :video_game:	GAME OVER
 
 ![Screenshot_2023-11-16_18_28_33](https://github.com/zagnox/vm-sda-project/assets/144890045/1b81e723-0fe2-41a1-b7cf-6425dfa5c8d6)
 
 **su root 666**
 `cat /root/root.txt`
+
+![gandalf-lotr](https://github.com/zagnox/vm-sda-project/assets/144890045/d2640c2e-603d-4999-8d7a-d9c3226e5820)
+
