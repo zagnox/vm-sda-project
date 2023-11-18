@@ -15,7 +15,7 @@ Nga rezultati i skanimit me nmap kuptojme qe 192.168.10.6 eshte IP e vm-sda. Kjo
 
 **80/tcp http**
 
-![Screenshot_2023-11-16_15_53_25](https://github.com/zagnox/vm-sda-project/assets/144890045/e4080f10-fede-40c5-9088-588f9df18de6)
+![Screenshot_2023-11-16_15_53_25]
 
 Nje skanim me i thelle me `nmap -sCV 192.168.10.6` na jep nje rezultat me te mire mbi sistemet dhe versionet qe ndodhen ne keto porta
 
